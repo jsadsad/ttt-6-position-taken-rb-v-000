@@ -1,3 +1,3 @@
 def position_taken?(board, index)
-  ? true : false
+ board[index] === "" || board[index] === "" ? true : false
   
